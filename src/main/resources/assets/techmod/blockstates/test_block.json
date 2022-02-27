@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "tech_mod:block/test_block" }
+  }
+}
